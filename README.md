@@ -1,6 +1,6 @@
 # extract
 A simple shell utility which extracts compressed files
-Works successfully on the following file types:
+## Works on the following file types:
 1. tar.bz2/tbz2
 2. tar.xz
 3. tar.gz
